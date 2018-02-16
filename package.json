@@ -1,0 +1,22 @@
+{
+  "name": "eth-lightwallet-upgrader",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "upgrade": "node upgrade.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/eth-lightwallet-upgrader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/eth-lightwallet-upgrader/issues"
+  },
+  "homepage": "https://github.com/OR13/eth-lightwallet-upgrader#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "eth-lightwallet": "^3.0.1"
+  }
+}
